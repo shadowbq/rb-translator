@@ -74,7 +74,7 @@ Out-Printer,lp
 Pop-Location,popd
 powershell_ise.exe,ise
 Push-Location,pushd
-Receive-Job,rcjb
+Receive-Job,rjb
 Receive-PSSession,rcsn
 Remove-Item,ri
 Remove-ItemProperty,rp
@@ -94,13 +94,15 @@ Select-Object,select
 Set-Alias,sal
 Set-Content,sc
 Set-Item,si
-Set-Location,cd
+Set-Location,sl
 Set-PSBreakpoint,sbp
-Set-Variable,set
+Set-Variable,sv
+Set-WmiInstance,swmi
 Show-Command,shcm
 Start-Job,sajb
 Start-Process,saps
 Start-Service,sasv
-Stop-Process,kill
+Stop-Process,spps
 Where-Object,?
+Wait-Job,wjb
 Write-Output,echo
