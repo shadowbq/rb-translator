@@ -31,6 +31,7 @@ Get-Content,gc
 Get-History,ghy
 Get-Item,gi
 Get-ItemProperty,gp
+Get-ItemPropertyValue,gpv
 Get-Job,gjb
 Get-Location,gl
 Get-Member,gm
